@@ -15,14 +15,15 @@ Serão realizados 3 exercícios na plataforma no LeetCode que são:
 - <a href="https://leetcode.com/problems/remove-boxes/description/">0546. Remover caixas (Difícil)</a>
 - <a href="https://leetcode.com/problems/zuma-game/description/">0488. Jogo do Zuma (Difícil)</a>
 - <a href="https://leetcode.com/problems/minimum-cost-for-tickets/description/">0983. Custo mínimo para tickets (Médio)</a>
-- <a href="https://leetcode.com/problems/candy/description/">1659. Maximizar a "grade da felicidade" (Difícil)</a>
+- <a href="https://leetcode.com/problems/coin-change/">0322. Troco de moedas (Médio)</a>
+- <a href="https://leetcode.com/problems/maximize-grid-happiness/">1659. Maximizar a "grade da felicidade" (Difícil)</a>
 
 ## Screenshots
 ![Aceite do exercício 0983](./imgs/0983_accepted.png "Aceite do exercício 0983")
 
-<!---
-![Aceite do exercício 0135](./imgs/0135_accepted.png "Aceite do exercício 0135")
+![Aceite do exercício 0322](./imgs/0322_accepted.png "Aceite do exercício 0322")
 
+<!---
 ![Aceite o exercício 044](./imgs/044_accepted.jpg "Aceite do exercício 044") -->
 
 ## Instalação 
@@ -39,9 +40,10 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 ## Links dos vídeos com explicação
 
 [Exercício 0983](https://drive.google.com/file/d/1jG0H57ZWqm7o-TWjh1rlcY97oZD44JEE/view?usp=sharing)
-<!-- 
-[Exercício 0135]()
 
+[Exercício 0322](https://drive.google.com/file/d/1hV60t-13I-Wz2g27lfR2TdU0BFDzC-C8/view?usp=sharing)
+
+<!-- 
 [Exercício 044]() -->
 
 
