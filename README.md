@@ -16,15 +16,17 @@ Serão realizados 3 exercícios na plataforma no LeetCode que são:
 - <a href="https://leetcode.com/problems/zuma-game/description/">0488. Jogo do Zuma (Difícil)</a>
 - <a href="https://leetcode.com/problems/minimum-cost-for-tickets/description/">0983. Custo mínimo para tickets (Médio)</a>
 - <a href="https://leetcode.com/problems/coin-change/">0322. Troco de moedas (Médio)</a>
-- <a href="https://leetcode.com/problems/maximize-grid-happiness/">1659. Maximizar a "grade da felicidade" (Difícil)</a>
 
 ## Screenshots
 ![Aceite do exercício 0983](./imgs/0983_accepted.png "Aceite do exercício 0983")
 
 ![Aceite do exercício 0322](./imgs/0322_accepted.png "Aceite do exercício 0322")
 
-<!---
-![Aceite o exercício 044](./imgs/044_accepted.jpg "Aceite do exercício 044") -->
+![Aceite do exercício 0488](./imgs/0488_accepted.jpg "Aceite do exercício 0488")
+
+![Aceite do exercício 0546](./imgs/0546_accepted.jpg "Aceite do exercício 0546")
+
+
 
 ## Instalação 
 **Linguagem**: Python 3.10.*<br>
@@ -43,7 +45,10 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 [Exercício 0322](https://drive.google.com/file/d/1hV60t-13I-Wz2g27lfR2TdU0BFDzC-C8/view?usp=sharing)
 
-<!-- 
-[Exercício 044]() -->
+[Exercício 0488](https://drive.google.com/file/d/1hV60t-13I-Wz2g27lfR2TdU0BFDzC-C8/view?usp=sharing)
+
+[Exercício 0546](https://drive.google.com/file/d/1hV60t-13I-Wz2g27lfR2TdU0BFDzC-C8/view?usp=sharing)
+
+
 
 
