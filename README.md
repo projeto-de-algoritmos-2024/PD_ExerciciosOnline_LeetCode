@@ -45,9 +45,9 @@ Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 [Exercício 0322](https://drive.google.com/file/d/1hV60t-13I-Wz2g27lfR2TdU0BFDzC-C8/view?usp=sharing)
 
-[Exercício 0488](https://drive.google.com/file/d/1hV60t-13I-Wz2g27lfR2TdU0BFDzC-C8/view?usp=sharing)
+[Exercício 0488](https://drive.google.com/file/d/1T4KrJb0Mndw3kD7o99v-Nlg66ovbRbmI/view?usp=sharing)
 
-[Exercício 0546](https://drive.google.com/file/d/1hV60t-13I-Wz2g27lfR2TdU0BFDzC-C8/view?usp=sharing)
+[Exercício 0546](https://drive.google.com/file/d/1T4KrJb0Mndw3kD7o99v-Nlg66ovbRbmI/view?usp=sharing)
 
 
 
